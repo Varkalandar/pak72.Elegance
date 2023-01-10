@@ -1,0 +1,106 @@
+--
+Obj=ground
+name=Basement
+# West
+Image[0][0]=-
+Image[1][0]=foundation.0.0
+Image[2][0]=-
+Image[3][0]=foundation.0.1
+Image[4][0]=foundation.0.2
+Image[5][0]=foundation.0.3
+Image[6][0]=-
+Image[7][0]=foundation.0.4
+Image[8][0]=foundation.0.7
+Image[9][0]=-
+Image[10][0]=-
+# North
+Image[11][0]=-
+Image[12][0]=foundation.1.0
+Image[13][0]=-
+Image[14][0]=foundation.1.1
+Image[15][0]=foundation.1.2
+Image[16][0]=foundation.1.3
+Image[17][0]=-
+Image[18][0]=foundation.1.4
+Image[19][0]=foundation.1.7
+Image[20][0]=-
+Image[21][0]=-
+
+--
+Obj=ground
+name=Slopes
+# West
+Image[0][0]=-
+Image[1][0]=ground_cuts.0.0
+Image[2][0]=-
+Image[3][0]=ground_cuts.0.1
+Image[4][0]=ground_cuts.0.2
+Image[5][0]=ground_cuts.0.3
+Image[6][0]=-
+Image[7][0]=ground_cuts.0.4
+Image[8][0]=ground_cuts.0.7
+Image[9][0]=-
+Image[10][0]=-
+# North
+Image[11][0]=-
+Image[12][0]=ground_cuts.1.0
+Image[13][0]=-
+Image[14][0]=ground_cuts.1.1
+Image[15][0]=ground_cuts.1.2
+Image[16][0]=ground_cuts.1.3
+Image[17][0]=-
+Image[18][0]=ground_cuts.1.4
+Image[19][0]=ground_cuts.1.7
+Image[20][0]=-
+Image[21][0]=-
+
+--
+Obj=ground
+name=Fence
+copyright=Stormoog
+# Natural fence
+Image[0][0]=stg-fences.0.0
+Image[1][0]=stg-fences.0.1
+Image[2][0]=stg-fences.0.2
+#building fence
+Image[3][0]=stg-fences.1.0
+Image[4][0]=stg-fences.1.1
+Image[5][0]=stg-fences.1.2
+
+--
+Obj=ground
+name=Marker
+copyright=prissi
+# the front part (obtained by hang&7) for signle slopes
+Image[0][0]=marker.0.6
+Image[1][0]=marker.0.1
+Image[2][0]=marker.0.4
+Image[3][0]=marker.0.2
+Image[4][0]=marker.0.0
+Image[5][0]=marker.0.5
+Image[6][0]=marker.0.3
+Image[7][0]=marker.0.7
+# backpart (obtained by (hang&1)|((hang&12)>>1)
+Image[8][0]=marker.1.6
+Image[9][0]=marker.1.2
+Image[10][0]=marker.1.3
+Image[11][0]=marker.1.4
+Image[12][0]=marker.1.5
+Image[13][0]=marker.1.1
+Image[14][0]=marker.1.0
+Image[15][0]=marker.1.7
+
+--
+Obj=ground
+name=Borders
+copyright=prissi
+# backpart (obtained by (hang&1)|((hang&12)>>1)
+Image[0][0]=borders.0.6
+Image[1][0]=borders.0.2
+Image[2][0]=borders.0.3
+Image[3][0]=borders.0.4
+Image[4][0]=borders.0.5
+Image[5][0]=borders.0.1
+Image[6][0]=borders.0.0
+Image[7][0]=borders.0.7
+

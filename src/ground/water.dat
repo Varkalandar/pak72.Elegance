@@ -1,0 +1,11 @@
+--
+Obj=ground
+Name=Water
+copyright=HjM
+Image[0][0]=hjm-water.0.0
+Image[1][0]=hjm-water.0.0
+Image[2][0]=hjm-water.0.1
+Image[3][0]=hjm-water.0.2
+Image[4][0]=hjm-water.0.3
+Image[5][0]=hjm-water.0.4
+

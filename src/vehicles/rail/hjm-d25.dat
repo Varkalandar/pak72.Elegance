@@ -1,0 +1,26 @@
+--
+obj=vehicle
+name=hjm-diesel_engine_25
+waytype=track
+copyright=HjM
+freight=None
+engine_type=diesel
+smoke=Diesel
+speed=100
+gear=150
+cost=1
+weight=64
+power=990
+power=1840
+RunningCost=1
+sound=2
+intro_year = 1
+EmptyImage[S]=hjm-d25.0.0
+EmptyImage[E]=hjm-d25.0.1
+EmptyImage[SE]=hjm-d25.0.2
+EmptyImage[SW]=hjm-d25.0.3
+EmptyImage[N]=hjm-d25.0.4
+EmptyImage[W]=hjm-d25.0.5
+EmptyImage[NW]=hjm-d25.0.6
+EmptyImage[NE]=hjm-d25.0.7
+

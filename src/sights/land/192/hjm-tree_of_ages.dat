@@ -1,0 +1,14 @@
+--
+obj=building
+name=hjm-tree_of_ages
+copyright=HjM
+parameters=ground(natural_flat)
+type=cur
+passengers=100
+dims=1,1
+climates=mediterran,temperate,tundra
+location=land
+needs_ground=1
+intro_year=1
+BackImage[0][0][0][0][0]=hjm-tree_of_ages.0.0,-64,-124
+

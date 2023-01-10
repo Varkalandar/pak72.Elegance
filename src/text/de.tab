@@ -1,0 +1,30 @@
+PROP_FONT_FILE
+varka-clean-12.bdf
+#------
+#------
+CATEGORY_01
+Stückgut
+CATEGORY_02
+Schüttgut
+CATEGORY_03
+Öl/Benzin
+CATEGORY_04
+Kühlwaren
+CATEGORY_05
+flüssige Lebensmittel
+CATEGORY_06
+Langholz/Bretter
+CATEGORY_07
+Pulver/Granulat
+#------
+#------
+crates
+ paletten
+tons
+t
+m³
+m³
+#---sights---
+#---sights---
+hjm-tree_of_ages
+Baum der Zeitalter\n\nEin riesiger und uralter Baum, der tausende Geschichten erzählen könnte, wenn er nur sprechen könnte.

@@ -1,0 +1,26 @@
+--
+obj=vehicle
+name=hjm-diesel_engine_3
+waytype=track
+copyright=HjM
+freight=None
+engine_type=diesel
+smoke=Diesel
+length=7
+speed=60
+gear=180
+cost=570000
+weight=54
+power=480
+RunningCost=403
+sound=2
+intro_year = 1
+EmptyImage[S]=hjm-d3.0.0
+EmptyImage[E]=hjm-d3.0.1
+EmptyImage[SE]=hjm-d3.0.2
+EmptyImage[SW]=hjm-d3.0.3
+EmptyImage[N]=hjm-d3.0.4
+EmptyImage[W]=hjm-d3.0.5
+EmptyImage[NW]=hjm-d3.0.6
+EmptyImage[NE]=hjm-d3.0.7
+

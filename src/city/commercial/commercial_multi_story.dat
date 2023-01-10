@@ -1,0 +1,10 @@
+--
+obj=building
+name=mhz-business_tower
+copyright=MHz
+type=com
+level=57
+intro_year=1
+climates=tropic,mediterran,temperate,tundra,rocky,arctic
+backimage[0][0][0][1][0]=mhz-business_tower.1.0
+backimage[0][0][0][0][0]=mhz-business_tower.2.0

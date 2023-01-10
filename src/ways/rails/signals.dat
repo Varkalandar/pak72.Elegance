@@ -1,0 +1,128 @@
+#
+# images S, N, E, W red, then green, then yellow (for presignal)
+# repeat (if you like) for electrification
+#
+--
+# normal signal
+obj=roadsign
+copyright=prissi
+name=rail_signal
+waytype=track
+cost=750
+is_signal=1
+intro_year = 1810
+intro_month = 9
+Image[0]=signals.0.0
+Image[1]=signals.0.1
+Image[2]=signals.0.2
+Image[3]=signals.0.3
+Image[4]=signals.0.4
+Image[5]=signals.0.5
+Image[6]=signals.0.6
+Image[7]=signals.0.7
+Image[8]=signals.1.0
+Image[9]=signals.1.1
+Image[10]=signals.1.2
+Image[11]=signals.1.3
+Image[12]=signals.1.4
+Image[13]=signals.1.5
+Image[14]=signals.1.6
+Image[15]=signals.1.7
+Icon=> signals.0.12
+Cursor=signals.0.13
+
+--
+# presignal
+obj=roadsign
+copyright=prissi
+Name=rail_pre_signal
+waytype=track
+cost=1500
+is_presignal=1
+intro_year = 1810
+intro_month = 9
+Image[0]=signals.2.0
+Image[1]=signals.2.1
+Image[2]=signals.2.2
+Image[3]=signals.2.3
+Image[4]=signals.2.4
+Image[5]=signals.2.5
+Image[6]=signals.2.6
+Image[7]=signals.2.7
+Image[8]=signals.2.8
+Image[9]=signals.2.9
+Image[10]=signals.2.10
+Image[11]=signals.2.11
+Image[12]=signals.3.0
+Image[13]=signals.3.1
+Image[14]=signals.3.2
+Image[15]=signals.3.3
+Image[16]=signals.3.4
+Image[17]=signals.3.5
+Image[18]=signals.3.6
+Image[19]=signals.3.7
+Image[20]=signals.3.8
+Image[21]=signals.3.9
+Image[22]=signals.3.10
+Image[23]=signals.3.11
+Icon=> signals.2.12
+Cursor=signals.2.13
+
+--
+# chosse signal
+obj=roadsign
+copyright=prissi
+Name=rail_choose_signal
+waytype=track
+cost=2500
+is_signal=1
+free_route=1
+intro_year = 1810
+intro_month = 9
+Image[0]=signals.4.0
+Image[1]=signals.4.1
+Image[2]=signals.4.2
+Image[3]=signals.4.3
+Image[4]=signals.4.4
+Image[5]=signals.4.5
+Image[6]=signals.4.6
+Image[7]=signals.4.7
+Image[8]=signals.5.0
+Image[9]=signals.5.1
+Image[10]=signals.5.2
+Image[11]=signals.5.3
+Image[12]=signals.5.4
+Image[13]=signals.5.5
+Image[14]=signals.5.6
+Image[15]=signals.5.7
+Icon=> signals.4.12
+Cursor=signals.4.13
+
+--
+obj=roadsign
+name=rail_long_block_signals
+waytype=track
+cost=750
+is_signal=1
+is_longblocksignal=1
+intro_year = 1810
+intro_month = 9
+Image[0]=signals.6.0
+Image[1]=signals.6.1
+Image[2]=signals.6.2
+Image[3]=signals.6.3
+Image[4]=signals.6.4
+Image[5]=signals.6.5
+Image[6]=signals.6.6
+Image[7]=signals.6.7
+Image[8]=signals.7.0
+Image[9]=signals.7.1
+Image[10]=signals.7.2
+Image[11]=signals.7.3
+Image[12]=signals.7.4
+Image[13]=signals.7.5
+Image[14]=signals.7.6
+Image[15]=signals.7.7
+Icon=> signals.6.12
+Cursor=signals.6.13
+

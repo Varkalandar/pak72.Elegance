@@ -1,0 +1,113 @@
+--
+Obj=building
+Name=fluid_station
+copyright=VS
+NoInfo=1
+enables_ware=1
+type=extension
+level=9
+BackImage[0][0][0][0][0][0]=station_addons.1.0
+BackImage[0][0][0][0][0][1]=station_addons.3.0
+icon=> station_addons.0.0
+cursor=station_addons.2.0
+
+--
+Obj=building
+Name=gas_station
+copyright=VS
+NoInfo=1
+enables_ware=1
+type=extension
+level=4
+BackImage[0][0][0][0][0][0]=station_addons.1.1
+BackImage[0][0][0][0][0][1]=station_addons.3.1
+icon=> station_addons.0.1
+cursor=station_addons.2.1
+
+--
+Obj=building
+Name=bulk_station
+NoInfo=1
+enables_ware=1
+type=extension
+level=5
+BackImage[0][0][0][0][0][0]=station_addons.1.2
+BackImage[0][0][0][0][0][1]=station_addons.3.2
+icon=> station_addons.0.2
+cursor=station_addons.2.2
+
+--
+Obj=building
+Name=car_station
+NoInfo=1
+enables_ware=1
+type=extension
+level=2
+BackImage[0][0][0][0][0][0]=station_addons.1.3
+BackImage[0][0][0][0][0][1]=station_addons.3.3
+icon=> station_addons.0.3
+cursor=station_addons.2.3
+
+--
+Obj=building
+Name=goods_station
+copyright=Raven
+NoInfo=1
+enables_ware=1
+type=extension
+intro_year = 1810
+intro_month = 9
+level=3
+BackImage[0][0][0][0][0][0]=station_addons.1.5
+BackImage[0][0][0][0][0][1]=station_addons.3.5
+icon=> station_addons.0.5
+cursor=station_addons.2.5
+
+--
+Obj=building
+Name=avila_warehouse_station
+copyright=Raven
+NoInfo=1
+type=extension
+waytype=track
+enables_ware=1
+intro_year=1879
+level=10
+BackImage[0][0][0][0][0][0]=station_addons.1.6
+BackImage[0][0][0][0][0][1]=station_addons.3.6
+icon=> station_addons.0.6
+cursor=station_addons.2.6
+
+--
+Obj=building
+Name=avila_small_station
+copyright=Raven
+type=extension
+waytype=track
+NoInfo=1
+intro_year = 1835
+enables_pax=1
+level=3
+BackImage[0][0][0][0][0][0]=station_addons.1.7
+BackImage[0][0][0][0][0][1]=station_addons.3.7
+icon=> station_addons.0.7
+cursor=station_addons.2.7
+
+--
+Obj=building
+Name=avila_big_station
+copyright=Raven
+NoInfo=1
+type=extension
+waytype=track
+enables_pax=1
+intro_year=1879
+level=8
+BackImage[0][0][0][1][0][0]=station_addons.0.9
+BackImage[0][0][0][0][0][0]=station_addons.1.9
+BackImage[0][0][0][1][0][1]=station_addons.2.9
+BackImage[0][0][0][0][0][1]=station_addons.3.9
+icon=> station_addons.0.8
+cursor=station_addons.2.8
+
+

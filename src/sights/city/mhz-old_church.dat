@@ -1,0 +1,12 @@
+--
+obj=building
+name=mhz-old_church
+copyright=MHz
+type=cur
+passengers=40
+build_time=500
+intro_year=1
+climates=tropic,mediterran,temperate,rocky,tundra
+BackImage[0][0][0][0][0][0]=mhz-old_church.0.0
+BackImage[0][0][0][0][0][1]=mhz-old_church.0.1
+

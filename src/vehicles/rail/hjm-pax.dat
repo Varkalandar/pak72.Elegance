@@ -1,0 +1,22 @@
+--
+obj=vehicle
+name=hjm-passenger_car
+waytype=track
+copyright=HjM
+freight=Passagiere
+payload=56
+length=8
+speed=100
+cost=1
+weight=18
+RunningCost=1
+intro_year = 1
+EmptyImage[S]=hjm-pax.0.0
+EmptyImage[E]=hjm-pax.0.1
+EmptyImage[SE]=hjm-pax.0.2
+EmptyImage[SW]=hjm-pax.0.3
+EmptyImage[N]=hjm-pax.0.4
+EmptyImage[W]=hjm-pax.0.5
+EmptyImage[NW]=hjm-pax.0.6
+EmptyImage[NE]=hjm-pax.0.7
+

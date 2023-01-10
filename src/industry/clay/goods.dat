@@ -1,0 +1,33 @@
+#
+# goods.dat for clay industry chain
+#
+# Goods categories (catg):
+# 0 = special goods (unique)
+# 1 = piece goods (e.g. crates of XY)
+# 2 = bulk goods (e.g. ore, sand, coal)
+# 3 = oil type fluids
+# 4 = cooled goods
+# 5 = liquid food
+# 6 = long goods (e.g. lumber, planks)
+# 7 = powders (e.g. lime, plastics)
+#
+--
+obj=good
+name=good-clay
+mapcolor=79
+metric=tons
+catg=2
+value=45
+speed_bonus=0
+weight_per_unit=1000
+
+--
+obj=good
+name=good-china
+mapcolor=79
+metric=crates
+catg=1
+value=45
+speed_bonus=0
+weight_per_unit=75
+

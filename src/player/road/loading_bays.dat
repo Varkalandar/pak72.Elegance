@@ -1,0 +1,27 @@
+--
+Obj=building
+Name=CarStop
+copyright=HjM
+type=stop
+waytype=road
+enables_ware=1
+NoInfo=1
+dims=1,1,4
+intro_year=1
+level=1
+# South
+BackImage[0][0][0][0][0]=hjm-loading_bay.0.0
+FrontImage[0][0][0][0][0]=hjm-loading_bay.0.4
+# East
+BackImage[1][0][0][0][0]=hjm-loading_bay.0.3
+FrontImage[1][0][0][0][0]=hjm-loading_bay.0.7
+# North
+BackImage[2][0][0][0][0]=hjm-loading_bay.0.1
+FrontImage[2][0][0][0][0]=hjm-loading_bay.0.5
+# West
+BackImage[3][0][0][0][0]=hjm-loading_bay.0.2
+FrontImage[3][0][0][0][0]=hjm-loading_bay.0.6
+#
+icon=> hjm-loading_bay.1.4
+cursor=hjm-loading_bay.1.5
+

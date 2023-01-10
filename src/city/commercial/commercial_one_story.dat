@@ -1,0 +1,336 @@
+--
+Obj=building
+Name=hjm-kiosk
+copyright=HjM
+type=com
+chance=100
+Level=1
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=hjm-kiosk_gas.1.0
+BackImage[0][0][0][0][0][1]=hjm-kiosk_gas.2.0
+
+--
+Obj=building
+Name=hjm-gas_station
+copyright=HjM
+type=com
+chance=100
+Level=1
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=hjm-kiosk_gas.1.1
+BackImage[0][0][0][0][0][1]=hjm-kiosk_gas.2.1
+
+--
+Obj=building
+Name=mhz-balloon_start
+copyright=
+type=com
+chance=66
+Level=1
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.1.0
+BackImage[0][0][0][0][0][1]=misc-one_story.1.1
+
+--
+Obj=building
+Name=ab-snackbar
+copyright=Alexander Brose
+type=com
+chance=100
+Level=2
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=alex-backports.1.0
+BackImage[0][0][0][0][0][1]=alex-backports.1.1
+
+--
+Obj=building
+Name=com-2
+copyright=
+type=com
+chance=100
+Level=2
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.2.0
+BackImage[0][0][0][0][0][1]=misc-one_story.2.1
+
+--
+Obj=building
+Name=com-3
+copyright=
+type=com
+chance=100
+Level=3
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.3.0
+BackImage[0][0][0][0][0][1]=misc-one_story.3.1
+
+--
+Obj=building
+Name=com-4
+copyright=
+type=com
+chance=100
+Level=4
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.4.0
+BackImage[0][0][0][0][0][1]=misc-one_story.4.1
+
+--
+Obj=building
+Name=com-5
+copyright=
+type=com
+chance=100
+Level=5
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.5.0
+BackImage[0][0][0][0][0][1]=misc-one_story.5.1
+
+--
+Obj=building
+Name=com-6
+copyright=
+type=com
+chance=100
+Level=6
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.6.0
+BackImage[0][0][0][0][0][1]=misc-one_story.6.1
+
+--
+Obj=building
+Name=com-7
+copyright=
+type=com
+chance=100
+Level=7
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.7.0
+BackImage[0][0][0][0][0][1]=misc-one_story.7.1
+
+--
+Obj=building
+Name=com-8
+copyright=
+type=com
+chance=100
+Level=8
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.8.0
+BackImage[0][0][0][0][0][1]=misc-one_story.8.1
+
+--
+Obj=building
+Name=com-9
+copyright=
+type=com
+chance=100
+Level=9
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.9.0
+BackImage[0][0][0][0][0][1]=misc-one_story.9.1
+
+--
+Obj=building
+Name=com-10
+copyright=
+type=com
+chance=100
+Level=10
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.10.0
+BackImage[0][0][0][0][0][1]=misc-one_story.10.1
+
+--
+Obj=building
+Name=com-11
+copyright=
+type=com
+chance=100
+Level=11
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.11.0
+BackImage[0][0][0][0][0][1]=misc-one_story.11.1
+
+--
+Obj=building
+Name=com-12
+copyright=
+type=com
+chance=100
+Level=12
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.12.0
+BackImage[0][0][0][0][0][1]=misc-one_story.12.1
+
+--
+Obj=building
+Name=com-13
+copyright=
+type=com
+chance=100
+Level=13
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.13.0
+BackImage[0][0][0][0][0][1]=misc-one_story.13.1
+
+--
+Obj=building
+Name=com-14
+copyright=
+type=com
+chance=100
+Level=14
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.14.0
+BackImage[0][0][0][0][0][1]=misc-one_story.14.1
+
+--
+Obj=building
+Name=com-15
+copyright=
+type=com
+chance=100
+Level=15
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.15.0
+BackImage[0][0][0][0][0][1]=misc-one_story.15.1
+
+--
+Obj=building
+Name=com-16
+copyright=
+type=com
+chance=100
+Level=17
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.16.0
+BackImage[0][0][0][0][0][1]=misc-one_story.16.1
+
+--
+Obj=building
+Name=com-18
+copyright=
+type=com
+chance=100
+Level=19
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.17.0
+BackImage[0][0][0][0][0][1]=misc-one_story.17.1
+
+--
+Obj=building
+Name=com-20
+copyright=
+type=com
+chance=100
+Level=21
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, height, season
+BackImage[0][0][0][0][0][0]=misc-one_story.18.0
+BackImage[0][0][0][0][0][1]=misc-one_story.18.1
+

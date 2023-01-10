@@ -1,0 +1,52 @@
+--
+# no entry sign
+obj=roadsign
+name=rail_close_sign
+copyright=prissi
+cost=500
+waytype=track
+min_speed=0
+single_way=1
+intro_year = 1810
+intro_month = 9
+image[0]=signs.0.0
+Image[1]=signs.0.1
+Image[2]=signs.0.2
+Image[3]=signs.0.3
+Icon=> signs.0.4
+Cursor=signs.0.5
+
+--
+# no entry sign
+obj=roadsign
+name=rail_end_of_choose
+copyright=prissi
+cost=500
+waytype=track
+end_of_choose=1
+intro_year = 1810
+intro_month = 9
+image[0]=signs.1.0
+Image[1]=signs.1.1
+Image[2]=signs.1.2
+Image[3]=signs.1.3
+Icon=> signs.1.4
+Cursor=signs.1.5
+
+--
+# private sign
+obj=roadsign
+name=rail_gate
+copyright=prissi
+cost=500
+waytype=track
+is_private=1
+intro_year = 1810
+intro_month = 9
+image[0]=signs.2.0
+Image[1]=signs.2.1
+Image[2]=signs.2.2
+Image[3]=signs.2.3
+Icon=> signs.2.4
+Cursor=signs.2.5
+

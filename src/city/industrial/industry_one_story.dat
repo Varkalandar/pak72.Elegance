@@ -1,0 +1,320 @@
+--
+Obj=building
+Name=hjm-flat_shed
+copyright=HjM
+type=ind
+chance=100
+Level=1
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=hjm-storage_sheds.1.0
+BackImage[0][0][0][0][0][1]=hjm-storage_sheds.1.1
+
+--
+Obj=building
+Name=hjm-storage_shed
+copyright=HjM
+type=ind
+chance=100
+Level=1
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=hjm-storage_sheds.2.0
+BackImage[0][0][0][0][0][1]=hjm-storage_sheds.2.1
+
+--
+Obj=building
+Name=hjm-small_factory
+copyright=HjM
+type=ind
+chance=100
+Level=2
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=hjm-storage_sheds.3.0
+BackImage[0][0][0][0][0][1]=hjm-storage_sheds.3.1
+
+--
+Obj=building
+Name=sct-tank
+copyright=Seth C. Triggs
+type=ind
+chance=100
+Level=3
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=sct-ind.1.0
+BackImage[0][0][0][0][0][1]=sct-ind.1.1
+
+--
+Obj=building
+Name=sct-sheet_metal_fab
+copyright=Seth C. Triggs
+type=ind
+chance=100
+Level=4
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=sct-ind.2.0
+BackImage[0][0][0][0][0][1]=sct-ind.2.1
+
+--
+Obj=building
+Name=ind-4
+copyright=
+type=ind
+chance=100
+Level=5
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.1.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.1.1
+
+--
+Obj=building
+Name=ind-5
+copyright=
+type=ind
+chance=100
+Level=6
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.2.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.2.1
+
+--
+Obj=building
+Name=ind-6
+copyright=
+type=ind
+chance=100
+Level=7
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.3.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.3.1
+
+--
+Obj=building
+Name=ind-7
+copyright=
+type=ind
+chance=100
+Level=8
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.4.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.4.1
+
+--
+Obj=building
+Name=ind-8
+copyright=
+type=ind
+chance=100
+Level=9
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.5.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.5.1
+
+--
+Obj=building
+Name=ind-9
+copyright=
+type=ind
+chance=100
+Level=10
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.6.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.6.1
+
+--
+Obj=building
+Name=ind-10
+copyright=
+type=ind
+chance=100
+Level=11
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.7.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.7.1
+
+--
+Obj=building
+Name=ind-11
+copyright=
+type=ind
+chance=100
+Level=12
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.8.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.8.1
+
+--
+Obj=building
+Name=ind-12
+copyright=
+type=ind
+chance=100
+Level=13
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.9.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.9.1
+
+--
+Obj=building
+Name=ind-13
+copyright=
+type=ind
+chance=100
+Level=14
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.10.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.10.1
+
+--
+Obj=building
+Name=ind-14
+copyright=
+type=ind
+chance=100
+Level=15
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.11.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.11.1
+
+--
+Obj=building
+Name=ind-15
+copyright=
+type=ind
+chance=100
+Level=16
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.12.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.12.1
+
+--
+Obj=building
+Name=ind-16
+copyright=
+type=ind
+chance=100
+Level=18
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.13.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.13.1
+
+--
+Obj=building
+Name=ind-17
+copyright=
+type=ind
+chance=100
+Level=20
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.14.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.14.1
+
+--
+Obj=building
+Name=ind-18
+copyright=
+type=ind
+chance=100
+Level=22
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# ??, ??, ??, ??, ??, ??, season
+BackImage[0][0][0][0][0][0]=misc-ind_one_story.15.0
+BackImage[0][0][0][0][0][1]=misc-ind_one_story.15.1
+

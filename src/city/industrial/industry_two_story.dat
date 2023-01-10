@@ -1,0 +1,108 @@
+--
+Obj=building
+Name=ind-1-2
+copyright=
+type=ind
+chance=100
+Level=25
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.2.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.3.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.2.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.3.1
+
+--
+Obj=building
+Name=ind-2-2
+copyright=
+type=ind
+chance=100
+Level=28
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.4.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.5.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.4.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.5.1
+
+--
+Obj=building
+Name=ind-3-2
+copyright=
+type=ind
+chance=100
+Level=31
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.6.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.7.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.6.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.7.1
+
+--
+Obj=building
+Name=ind-4-2
+copyright=
+type=ind
+chance=100
+Level=34
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.8.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.9.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.8.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.9.1
+
+--
+Obj=building
+Name=ind-5-2
+copyright=
+type=ind
+chance=100
+Level=34
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.10.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.11.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.10.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.11.1
+
+--
+Obj=building
+Name=ind-6-2
+copyright=
+type=ind
+chance=100
+Level=34
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-ind_two_story.12.0
+BackImage[0][0][0][0][0][0]=misc-ind_two_story.13.0
+BackImage[0][0][0][1][0][1]=misc-ind_two_story.12.1
+BackImage[0][0][0][0][0][1]=misc-ind_two_story.13.1
+

@@ -1,0 +1,21 @@
+--
+obj=vehicle
+name=hjm-boxed_car
+waytype=track
+copyright=HjM
+freight=good-boxed
+payload=24
+speed=80
+cost=1
+weight=18
+RunningCost=1
+intro_year = 1
+EmptyImage[S]=hjm-boxed.0.0
+EmptyImage[E]=hjm-boxed.0.1
+EmptyImage[SE]=hjm-boxed.0.2
+EmptyImage[SW]=hjm-boxed.0.3
+EmptyImage[N]=hjm-boxed.0.4
+EmptyImage[W]=hjm-boxed.0.5
+EmptyImage[NW]=hjm-boxed.0.6
+EmptyImage[NE]=hjm-boxed.0.7
+

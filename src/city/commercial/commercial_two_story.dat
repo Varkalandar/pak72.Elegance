@@ -1,0 +1,234 @@
+--
+Obj=building
+Name=com-1-2
+copyright=
+type=com
+chance=100
+Level=24
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.2.0
+BackImage[0][0][0][0][0][0]=misc-two_story.3.0
+BackImage[0][0][0][1][0][1]=misc-two_story.2.1
+BackImage[0][0][0][0][0][1]=misc-two_story.3.1
+
+--
+Obj=building
+Name=com-2-2
+copyright=
+type=com
+chance=100
+Level=27
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.4.0
+BackImage[0][0][0][0][0][0]=misc-two_story.5.0
+BackImage[0][0][0][1][0][1]=misc-two_story.4.1
+BackImage[0][0][0][0][0][1]=misc-two_story.5.1
+
+--
+Obj=building
+Name=com-3-2
+copyright=
+type=com
+chance=100
+Level=30
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.2.0
+BackImage[0][0][0][0][0][0]=misc-two_story.3.0
+BackImage[0][0][0][1][0][1]=misc-two_story.2.1
+BackImage[0][0][0][0][0][1]=misc-two_story.3.1
+
+--
+Obj=building
+Name=com-4-2
+copyright=
+type=com
+chance=100
+Level=33
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.4.0
+BackImage[0][0][0][0][0][0]=misc-two_story.5.0
+BackImage[0][0][0][1][0][1]=misc-two_story.4.1
+BackImage[0][0][0][0][0][1]=misc-two_story.5.1
+
+--
+Obj=building
+Name=com-5-2
+copyright=
+type=com
+chance=100
+Level=36
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.6.0
+BackImage[0][0][0][0][0][0]=misc-two_story.7.0
+BackImage[0][0][0][1][0][1]=misc-two_story.6.1
+BackImage[0][0][0][0][0][1]=misc-two_story.7.1
+
+--
+Obj=building
+Name=com-6-2
+copyright=
+type=com
+chance=100
+Level=39
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.8.0
+BackImage[0][0][0][0][0][0]=misc-two_story.9.0
+BackImage[0][0][0][1][0][1]=misc-two_story.8.1
+BackImage[0][0][0][0][0][1]=misc-two_story.9.1
+
+--
+Obj=building
+Name=com-7-2
+copyright=
+type=com
+chance=100
+Level=42
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.10.0
+BackImage[0][0][0][0][0][0]=misc-two_story.11.0
+BackImage[0][0][0][1][0][1]=misc-two_story.10.1
+BackImage[0][0][0][0][0][1]=misc-two_story.11.1
+
+--
+Obj=building
+Name=com-8-2
+copyright=
+type=com
+chance=100
+Level=45
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.12.0
+BackImage[0][0][0][0][0][0]=misc-two_story.13.0
+BackImage[0][0][0][1][0][1]=misc-two_story.12.1
+BackImage[0][0][0][0][0][1]=misc-two_story.13.1
+
+--
+Obj=building
+Name=com-9-2
+copyright=
+type=com
+chance=100
+Level=48
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.14.0
+BackImage[0][0][0][0][0][0]=misc-two_story.15.0
+BackImage[0][0][0][1][0][1]=misc-two_story.14.1
+BackImage[0][0][0][0][0][1]=misc-two_story.15.1
+
+--
+Obj=building
+Name=com-10-2
+copyright=
+type=com
+chance=100
+Level=51
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.16.0
+BackImage[0][0][0][0][0][0]=misc-two_story.17.0
+BackImage[0][0][0][1][0][1]=misc-two_story.16.1
+BackImage[0][0][0][0][0][1]=misc-two_story.17.1
+
+--
+Obj=building
+Name=com-11-2
+copyright=
+type=com
+chance=100
+Level=54
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.18.0
+BackImage[0][0][0][0][0][0]=misc-two_story.19.0
+BackImage[0][0][0][1][0][1]=misc-two_story.18.1
+BackImage[0][0][0][0][0][1]=misc-two_story.19.1
+
+--
+Obj=building
+Name=com-12-2
+copyright=
+type=com
+chance=100
+Level=57
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.20.0
+BackImage[0][0][0][0][0][0]=misc-two_story.21.0
+BackImage[0][0][0][1][0][1]=misc-two_story.20.1
+BackImage[0][0][0][0][0][1]=misc-two_story.21.1
+
+--
+Obj=building
+Name=com-13-2
+copyright=
+type=com
+chance=100
+Level=57
+intro_year=1
+needs_ground=1
+seasons=2
+# water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# rota, ??, ??, ??, height, ani, season
+BackImage[0][0][0][1][0][0]=misc-two_story.22.0
+BackImage[0][0][0][0][0][0]=misc-two_story.23.0
+BackImage[0][0][0][1][0][1]=misc-two_story.22.1
+BackImage[0][0][0][0][0][1]=misc-two_story.23.1
+

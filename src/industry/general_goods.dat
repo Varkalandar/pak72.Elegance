@@ -1,0 +1,87 @@
+#
+# general_goods.dat
+#
+# Goods categories (catg):
+# 0 = special goods (unique)
+# 1 = piece/boxed goods (e.g. crates of XY)
+# 2 = bulk goods (e.g. ore, sand, coal)
+# 3 = oil type fluids
+# 4 = cooled goods
+# 5 = liquid food
+# 6 = long goods (e.g. lumber, planks)
+# 7 = powders (e.g. lime, plastics)
+#
+--
+obj=good
+name=Passagiere
+mapcolor=79
+metric=
+catg=0
+value=45
+speed_bonus=15
+weight_per_unit=75
+
+--
+obj=good
+name=Post
+mapcolor=171
+metric=sack
+catg=0
+value=55
+speed_bonus=15
+weight_per_unit=50
+
+--
+obj=good
+name=None
+metric=
+catg=0
+value=0
+speed_bonus=0
+weight_per_unit=0
+
+--
+obj=good
+name=good-boxed
+metric=crates
+catg=1
+value=0
+speed_bonus=0
+weight_per_unit=0
+
+--
+obj=good
+name=good-bulk
+metric=tons
+catg=2
+value=0
+speed_bonus=0
+weight_per_unit=0
+
+--
+obj=good
+name=good-oiltype
+metric=m³
+catg=3
+value=0
+speed_bonus=0
+weight_per_unit=0
+
+--
+obj=good
+name=good-watertype
+metric=m³
+catg=5
+value=0
+speed_bonus=0
+weight_per_unit=0
+
+--
+obj=good
+name=good-long
+metric=
+catg=6
+value=0
+speed_bonus=0
+weight_per_unit=0
+
