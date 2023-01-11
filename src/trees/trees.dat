@@ -2,7 +2,7 @@
 Obj=tree
 Name=hjm-birch
 copyright=HjM
-DistributionWeight=100
+DistributionWeight=50
 climates=mediterran,temperate,tundra,rocky
 seasons=5
 # July - September (Summer)
@@ -40,7 +40,7 @@ Image[4][4]=hjm-birch.1.4
 Obj=tree
 Name=hjm-beech
 copyright=HjM
-DistributionWeight=100
+DistributionWeight=50
 climates=mediterran,temperate,tundra
 seasons=5
 # July - September (Summer)
@@ -77,8 +77,8 @@ Image[4][4]=hjm-beech.3.4
 --
 Obj=tree
 Name=Willow
-DistributionWeight=200
-climates=temperate,tundra
+DistributionWeight=50
+climates=mediterran,temperate,tundra
 copyright=Shunter
 seasons=4
 # July - September (Summer)

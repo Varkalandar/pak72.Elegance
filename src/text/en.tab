@@ -1,5 +1,3 @@
-PROP_FONT_FILE
-varka-clean-12.bdf
 #------
 #------
 CATEGORY_01
@@ -26,5 +24,269 @@ m³
 m³
 #---sights---
 #---sights---
+AirStop
+Airport
+Basement
+Foundation
+Borders
+Borders
+boxed_goods_ship
+Boxed goods ship
+Builder
+Bulldozer
+bushes
+Bushes
+BusStop
+Bus stop
+CarStop
+Truck stop
+clay_pit
+Clay pit
+ColorOptions
+Color Options
+DialogeTools
+Dialog tools
+Electricity
+Electricity
+Fence
+Fence
+Flags
+Flags
+geese
+Geese
+GeneralTools
+General Tools
+glass_factory
+Glass Factory
+good-boxed
+Boxed goods
+good-bulk
+Bulk goods
+good-china
+Pottery
+good-clay
+Clay
+good-coal
+Coal
+good-glass_products
+Glass Products
+good-long
+Long goods
+good-oiltype
+Oil
+good-sand
+Sand
+good-watertype
+Water
+ground_obj_rock_1
+A rock
+ground_obj_rock_2
+A rock
+ground_obj_rock_3
+A rock
+hjm-asphalt_road
+Asphalt Road
+hjm-blue_flowers
+Blue Flowers
+hjm-boxed_car
+Boxed Goods Car
+hjm-bulk_waggon
+Bulk Goods Waggon
+hjm-cobblestone_road
+Cobblestone Road
+hjm-diesel_engine_25
+Diesel Engine T25
+hjm-diesel_engine_3
+Diesel Engine T3
+hjm-flowers-1
+Some Flowers
+hjm-flowers-2
+Some Flowers
+hjm-freight_station
+Train Station
+hjm-goods_van
+Boxed Goods Van
+hjm-gravel_road
+Gravel Road
+hjm-land_road
+Overland Road
+hjm-mailboat
+Mail Boat
+hjm-passenger_car
+Passenger Coach
+hjm-pink_flowers
+Some Pink Flowers
+hjm-railway_station
+Train station
+hjm-sand_rail
+Sand Bedded Rail
+hjm-slow_ferry
+Passenger Ferry
+hjm-small_truck
+Small Truck
+hjm-tank_waggon_oil
+Oil Tanker
+hjm-tank_waggon_water
+Water Tanker
 hjm-tree_of_ages
 Tree Of The Ages\n\nA giant ancient tree, which could tell myriads of stories, if it only could speak.
+hjm-white_flowers
+Some White Flowers 
+hjm-wide_white_flowers
+White Flowers
+hjm-yellow_flowers
+Some Yellow Flowers
+h-trans_bus_mk1
+H-Trans Bus Mk.1
+h-trans_bus_mk2
+H-Trans Bus Mk.2
+kiefer_1
+Pine Tree
+kiefer_2
+Pine Tree
+kiefer_3
+Pine Tree
+kiefer_4
+Pine Tree
+kiefer_5
+Pine Tree
+lavender_field_1
+Lavender Field
+lavender_field_2
+Lavender Field
+Marked
+Marker
+Marker
+Marker
+Message
+Message
+MessageOptions
+Message Options
+mhz-business_tower
+Business Tower
+mhz-old_church
+Old Church
+mhz-sand_station
+Rail Station
+mhz-steamer
+Steam Boat
+mhz-tower
+Multi Function Tower
+mhz-windmill
+Wind Mill
+moles
+Moles
+MonorailStop
+Monorail Station
+networksym
+Network
+new_city_road
+City Road
+NewWorld
+New World
+NewYear
+New Year
+oil_barge
+Oil Barge
+palm_tree_1
+Palm Tree
+palm_tree_2
+Palm Tree
+palm_tree_3
+Palm Tree
+palm_tree_4
+Palm Tree
+Passagiere
+Passengers
+pausesym
+Pause
+Post
+Mail
+pottery
+Pottery
+rail_close_sign
+Rail Close Sign
+rail_end_of_choose
+Rail End of Choose Sign
+rail_gate
+Rail Gate
+rail_long_block_signals
+Long Block Signal
+rail_signal
+Signal
+rapeseed_field_1
+Rapeseed Field
+rapeseed_field_2
+Rapeseed Field
+rocks
+Some Rocks
+sand_pit
+Sand Pit
+schooner
+Schooner
+schooner_bark
+Schooner Bark
+Seasons
+Seasons
+See1
+A Lake
+See2
+A Lake
+See3
+A Lake
+See4
+A Lake
+shaft_coal_mine
+Shaft Coal Mine
+ShipStop
+Dock
+shopping_mall
+Shopping Mall
+SimpleTools
+Simple Tools
+Slopes
+Slopes
+tb-bulk_ship
+Bulk Goods Ship
+tb-cement_ship
+Cement Freighter
+tb-container_ship
+Container Freighter
+tb-oil_ship
+Oil Tanker
+tb-wood_ship
+Wood Freighter
+tea_clipper
+Tea Clipper
+timelinesym
+Timelise
+townhall_0
+Townhall
+townhall_1
+Townhall
+townhall_2
+Townhall
+TrainStop
+Train Station
+TramStop
+Tram Station
+tropic_tree_1
+Tropic Tree
+tropic_tree_2
+Tropic Tree
+tropic_tree_3
+Tropic Tree
+tropic_tree_4
+Tropic Tree
+tugboat
+Tugboat
+turgot
+Turgot
+Viggen
+Viggen
+vilvoh-godm_spitz
+vilvoh-godm_spitz
+Waren
+Goods
+wooden_sleeper_track
+Wooden Sleeper Track

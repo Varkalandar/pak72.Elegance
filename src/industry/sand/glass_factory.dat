@@ -4,10 +4,13 @@ name=glass_factory
 copyright=Patrick, HjM
 
 location=Land
-#distributionWeight=1
+distributionWeight=1
 
-productivity=50
-range=20
+intro_year=1
+intro_month=1
+
+productivity=25
+range=5
 
 electricity_amount=100
 electricity_boost=1000
@@ -16,28 +19,21 @@ mail_boost=200
 Passenger_demand=20
 Passenger_boost=500
 
-#OutputGood[0]=glass
-#OutputCapacity[0]=800
-
-#smoke=industry_smoke
-#smokeTile=0,0
-#smokeOffset=8,-48
-#smokeSpeed=64
 
 InputGood[0]=good-sand
 InputFactor[0]=160
 InputCapacity[0]=300
-InputSupplier[0]=0
+InputSupplier[0]=1
 
 InputGood[1]=good-coal
 InputFactor[1]=210
 InputCapacity[1]=400
-InputSupplier[1]=0
+InputSupplier[1]=1
 
 OutputGood[0]=good-glass_products
 OutputCapacity[0]=140
 
-MapColor=223
+MapColor=221
 Dims=2,2
 
 BackImage[0][0][0][0][0]=glass_factory.1.1

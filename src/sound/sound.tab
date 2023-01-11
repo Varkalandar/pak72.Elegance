@@ -1,0 +1,16 @@
+# hardcoded game sounds
+# do not alter these numbers!
+#cash
+sound[15]=
+# remover sound
+sound[14]=explosion.wav
+# - construction on water
+sound[13]=dock.wav
+# - metal construction gets built
+sound[12]=gavel.wav
+# - stone/concrete construction gets built
+sound[11]=jackhammer.wav
+# - tool failed
+sound[10]=boing.wav
+# - tool selection
+sound[9]=click.wav

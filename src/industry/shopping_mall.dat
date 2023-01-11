@@ -9,14 +9,15 @@ level=5
 needs_ground=1
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 location=City
-chance=2  
 productivity=24
 range=6
 MapColor=7 
 InputGood[0]=good-china
 InputCapacity[0]=125 
+InputSupplier[1]=1
 InputGood[1]=good-glass_products
-InputCapacity[1]=125 
+InputCapacity[1]=125
+InputSupplier[1]=1
 dims=4,4
 # [rota][downleft][downright][height][ani][season]
 BackImage[0][0][0][0][0][0]=shopping_mall.2.2
