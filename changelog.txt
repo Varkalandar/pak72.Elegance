@@ -10,3 +10,5 @@ Changes since v0.01
 - Gave the sand pit a bit more noise in the sand areas
 - Darkened the landscape textures a bit
 - Reworked level 0 river graphics some
+- New special tools icon
+

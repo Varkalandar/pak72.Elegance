@@ -2,7 +2,7 @@
 #
 # Menu configuration for Simutrans
 #
-# author: Markus Pristovsek, Varkaleas
+# author: Markus Pristovsek, Hj. Malthaner
 #
 
 # With these file, each menu/tool/toolbar can be assigned a meaning
@@ -26,7 +26,7 @@ icon_height = 32
 # ommitting a parameter will set default values (i.e. no image, no sound, no default string)
 # These are the default definition.
 #
-# currently define values for i
+# currently defined values for i
 # WKZ_ABFRAGE=0
 
 # WKZ_REMOVER=1
@@ -460,7 +460,7 @@ toolbar[9][8]=dialog_tool[22]
 toolbar[9][9]=general_tool[30]
 toolbar[9][10]=simple_tool[6]
 # Enlarge map doesn't work well with island maps
-#toolbar[9][11]=dialog_tool[24]
+toolbar[9][11]=dialog_tool[24]
 toolbar[9][12]=general_tool[28]
 
 # powerline tools
