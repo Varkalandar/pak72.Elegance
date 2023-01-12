@@ -34,6 +34,8 @@ boxed_goods_ship
 Boxed goods ship
 Builder
 Bulldozer
+bush_1
+Bush
 bushes
 Bushes
 BusStop
@@ -58,6 +60,8 @@ GeneralTools
 General Tools
 glass_factory
 Glass Factory
+glass_shop
+Department Store
 good-boxed
 Boxed goods
 good-bulk
@@ -214,6 +218,20 @@ rail_long_block_signals
 Long Block Signal
 rail_signal
 Signal
+random_field_1
+A Field
+random_field_2
+A Field
+random_field_3
+A Field
+random_field_4
+A Field
+random_field_5
+A Field
+random_field_6
+A Field
+random_field_7
+A Field
 rapeseed_field_1
 Rapeseed Field
 rapeseed_field_2
@@ -246,6 +264,18 @@ SimpleTools
 Simple Tools
 Slopes
 Slopes
+tanne_1
+Fir
+tanne_2
+Fir
+tanne_3
+Fir
+tanne_4
+Fir
+tanne_5
+Fir
+tanne_6
+Fir
 tb-bulk_ship
 Bulk Goods Ship
 tb-cement_ship

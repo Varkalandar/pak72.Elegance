@@ -24,5 +24,386 @@ m³
 m³
 #---sights---
 #---sights---
+ab-snackbar
+Snackbar
+AirStop
+Flughafen
+avila_big_station
+Große Station
+avila_small_station
+Kleine Station
+avila_warehouse_station
+Station mit Warenhaus
+BarTools
+Toolmenü
+Basement
+Fundament
+Borders
+Ränder
+boxed_goods_ship
+Schiff für Stückgut
+Builder
+Räumer
+bulk_station
+Schüttgutstation
+bush_1
+Busch
+bushes
+Büsche
+BusStop
+Bushaltestelle
+bus_stop
+Bushaltestelle
+car_station
+Frachtstation
+CarStop
+Frachthof
+CarStop
+Frachthof
+clay_pit
+Lehmgrube
+ColorOptions
+Farbwahl
+Construction
+Konstruktion
+DialogeTools
+Dialogwerkzeuge
+Diesel
+Diesel
+Electricity
+Electrizität
+Fence
+Zaun
+Flags
+Fahnen
+fluid_station
+Tanks für Flüssigkeiten
+gas_station
+Tankstelle
+geese
+Gänse
+GeneralTools
+Werkzeuge
+glass_factory
+Glaswarenhersteller
+glass_shop
+Kaufhaus
+good-boxed
+Stückgut
+good-bulk
+Schüttgut
+good-china
+Porzellan
+good-clay
+Ton/Lehm
+good-coal
+Kohle
+good-glass_products
+Glaswaren
+good-long
+Langgut
+good-oiltype
+Öl
+good-sand
+Sand
+goods_station
+Warenstations
+good-watertype
+Wasser
+ground_obj_rock_1
+Stein
+ground_obj_rock_2
+Fels
+ground_obj_rock_3
+Fels
+hjm-asphalt_road
+Asphaltierte Straße
+hjm-beech
+Buche
+hjm-birch
+Birke
+hjm-blue_flowers
+Blaue Wilddblumen
+hjm-boxed_car
+Stückgut LKW
+hjm-bulk_waggon
+Schüttgut LKW
+hjm-cobblestone_road
+Kopsteinpflasterstraße
+hjm-diesel_engine_25
+Diesellok T25
+hjm-diesel_engine_3
+Diesellok T3
+hjm-flat_shed
+Hütte
+hjm-flowers-1
+Einige Blumen
+hjm-flowers-2
+Einige Blumen
+hjm-freight_station
+Frachtstation
+hjm-gas_station
+Tankstelle
+hjm-goods_van
+Güter LKW
+hjm-gravel_road
+Geschotterte Straße
+hjm-kiosk
+Kiosk
+hjm-land_road
+Landsttraße
+hjm-mailboat
+Postboot
+hjm-old_rail_tunnel
+Alter Schienentunnel
+hjm-old_road_tunnel
+Alter Straßentunnel
+hjm-passenger_car
+Passagierwaggon
+hjm-pink_flowers
+Rosa Blumen
+hjm-railway_station
+Bahnhof
+hjm-sand_rail
+In Sand verlegte Schienen
+hjm-slow_ferry
+Fähre
+hjm-small_factory
+Kleine Fabrik
+hjm-small_house
+Kleines Haus
+hjm-small_truck
+Kleiner LKW
+hjm-storage_shed
+Lagerhalle
+hjm-tank_waggon_oil
+Kesselwagen für Öl
+hjm-tank_waggon_water
+Kesselwagen für Wasser
+hjm-tree_of_ages
 hjm-tree_of_ages
 Baum der Zeitalter\n\nEin riesiger und uralter Baum, der tausende Geschichten erzählen könnte, wenn er nur sprechen könnte.
+hjm-white_flowers
+Weiße Blumen
+hjm-wide_white_flowers
+Weiße Blumen
+hjm-yellow_flowers
+Gelbe Blumen
+h-trans_bus_mk1
+H-Trans Bus Typ 1
+h-trans_bus_mk2
+H-Trans Bus Typ 2
+kiefer_1
+Kiefer
+kiefer_2
+Kiefer
+kiefer_3
+Kiefer
+kiefer_4
+Kiefer
+kiefer_5
+Kiefer
+large_ship_stop
+Anlegestelle
+Latschenkiefer
+Latschenkiefer
+lavender_field_1
+Lavendelfeld
+lavender_field_2
+Lavendelfeld
+Marked
+Markiert
+Marker
+Markierung
+Message
+Nachricht
+MessageOptions
+Nachrichteneinstellungen
+mhz-balloon_start
+Startplatz für Heißluftballons
+mhz-business_tower
+Büroturm
+mhz-old_church
+Alte Kirche
+mhz-sand_station
+Bahnhof
+mhz-ship_depot_1
+Schiffsdepot
+mhz-ship_depot_2
+Schiffsdepot
+mhz-ship_stop
+Anlegestelle
+mhz-steamer
+Dampfer
+mhz-tower
+Mehrzweckturm
+mhz-windmill
+Windmühle
+moles
+Maulwürfe
+MonorailStop
+Haltestelle für Einschienenbahn
+new_city_road
+Stadtstraße
+NewWorld
+Neue Karte
+NewYear
+Neues Jahr
+None
+Nichts
+oil_barge
+Öltanker
+palm_tree_1
+Palme
+palm_tree_2
+Palme
+palm_tree_3
+Palme
+palm_tree_4
+Palme
+Passagiere
+Passagiere
+pausesym
+Pause
+Post
+Post
+pottery
+Keramik
+rail_choose_signal
+Wahlsignal
+rail_close_sign
+Schlussignal
+rail_end_of_choose
+Wahlendesignal
+rail_gate
+Schienensperre
+rail_long_block_signals
+Langblocksignal
+rail_pre_signal
+Vorsignal
+rail_signal
+Signal
+random_field_1
+Feld
+random_field_2
+Feld
+random_field_3
+Feld
+random_field_4
+Feld
+random_field_5
+Feld
+random_field_6
+Feld
+random_field_7
+Feld
+rapeseed_field_1
+Rapsfeld
+rapeseed_field_2
+Rapsfeld
+river_0
+Flüsschen
+river_1
+Fluss
+river_2
+Breiter Fluss
+river_3
+Strom
+rocks
+Steine
+sand_pit
+Sandgrube
+schooner
+Schooner
+schooner_bark
+Schooner
+sct-sheet_metal_fab
+Blechverbeitende Fabrik
+sct-tank
+Tank
+Seasons
+Jahreszeiten
+See1
+See
+See2
+See
+See3
+See
+See4
+See
+shaft_coal_mine
+Kohlebergwerk
+ShipStop
+Anlegestelle
+shopping_mall
+Einkaufszentrum
+Sidewalk
+Gehweg
+SimpleTools
+Werkzeuge
+Steam
+Dampf
+tanne_1
+Tanne
+tanne_2
+Tanne
+tanne_3
+Tanne
+tanne_4
+Tanne
+tanne_5
+Tanne
+tanne_6
+Tanne
+tb-bulk_ship
+Frachtschiff
+tb-cement_ship
+Frachtschiff für Zement
+tb-container_ship
+Containerschiff
+tb-oil_ship
+Öltanker
+tb-wood_ship
+Holzfrachter
+tea_clipper
+Teefrachter
+townhall_0
+Rathaus
+townhall_1
+Rathaus
+townhall_2
+Rathaus
+train_depot_1
+Bahndepot
+train_depot_2
+Bahndepot
+TrainStop
+Bahnhof
+TramStop
+Straßenbahnhaltestelle
+tropic_tree_1
+Tropenbaum
+tropic_tree_2
+Tropenbaum
+tropic_tree_3
+Tropenbaum
+tropic_tree_4
+Tropenbaum
+truck_depot_1
+LKW Depot
+tugboat
+Schlepper
+turgot
+Turgot
+Viggen
+Viggen
+vilvoh-godm_spitz
+vilvoh-godm_spitz
+Waren
+Waren
+Water
+Wasser
+Willow
+Weide
+wooden_sleeper_track
+Schienen mit Holzschwellen

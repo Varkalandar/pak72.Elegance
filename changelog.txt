@@ -1,9 +1,12 @@
 Changes since v0.01
 
-- Added english language texts
+- Added English language texts
+- Added German language texts
 - Muted clay pit colors somewhat to make it blend in better
 - Brightened pine trees a very little
 - Fixed slightly off perspective on a framework house
 - Added basic sound effects from pak64
 - Added a department store from pak128.Britain
 - Gave the sand pit a bit more noise in the sand areas
+- Darkened the landscape textures a bit
+- Reworked level 0 river graphics some

@@ -17,7 +17,7 @@ InputCapacity[0]=125
 InputSupplier[1]=1
 InputGood[1]=good-glass_products
 InputCapacity[1]=125
-InputSupplier[1]=1
+InputSupplier[0]=1
 dims=4,4
 # [rota][downleft][downright][height][ani][season]
 BackImage[0][0][0][0][0][0]=shopping_mall.2.2
