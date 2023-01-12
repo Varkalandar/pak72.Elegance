@@ -28,14 +28,38 @@ InputCapacity[1]=300
 InputSupplier[1]=1
 
 MapColor=223
-dims=3,1,1
+dims=3,1,2
 
 # summer
 BackImage[0][0][0][0][0][0]=glass_shop.0.0
 BackImage[0][0][1][0][0][0]=glass_shop.0.1
 BackImage[0][0][2][0][0][0]=glass_shop.1.0
 
+BackImage[1][0][0][0][0][0]=glass_shop_r2.0.0
+BackImage[1][1][0][0][0][0]=glass_shop_r2.0.1
+BackImage[1][2][0][0][0][0]=glass_shop_r2.0.2
+
+BackImage[2][0][0][0][0][0]=glass_shop.0.0
+BackImage[2][0][1][0][0][0]=glass_shop.0.1
+BackImage[2][0][2][0][0][0]=glass_shop.1.0
+
+BackImage[3][0][0][0][0][0]=glass_shop_r2.0.0
+BackImage[3][1][0][0][0][0]=glass_shop_r2.0.1
+BackImage[3][2][0][0][0][0]=glass_shop_r2.0.2
+
 # winter
 BackImage[0][0][0][0][0][1]=glass_shop-snow.0.0
 BackImage[0][0][1][0][0][1]=glass_shop-snow.0.1
 BackImage[0][0][2][0][0][1]=glass_shop-snow.1.0
+
+BackImage[1][0][0][0][0][1]=glass_shop_r2-snow.0.0
+BackImage[1][1][0][0][0][1]=glass_shop_r2-snow.0.1
+BackImage[1][2][0][0][0][1]=glass_shop_r2-snow.0.2
+
+BackImage[2][0][0][0][0][1]=glass_shop-snow.0.0
+BackImage[2][0][1][0][0][1]=glass_shop-snow.0.1
+BackImage[2][0][2][0][0][]=glass_shop-snow.1.0
+
+BackImage[3][0][0][0][0][1]=glass_shop_r2-snow.0.0
+BackImage[3][1][0][0][0][1]=glass_shop_r2-snow.0.1
+BackImage[3][2][0][0][0][1]=glass_shop_r2-snow.0.2
