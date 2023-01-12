@@ -1,0 +1,14 @@
+#
+# Menu ibackground for Simutrans pak144.Excentrique
+# This is shown where there main menu has no icon to display.
+# Author: Hj. Malthaner
+#
+# Created:  2022/12/15
+# Update:   2022/12/15
+#
+# Hajo: Hack: if image name starts with "> " then this
+# image is treated not zoomable
+#
+obj=symbol
+name=ToolsBackground
+Image[0]=>single_icons/hjm-menu_background.0.0
