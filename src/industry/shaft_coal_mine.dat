@@ -12,7 +12,7 @@ intro_month=1
 OutputGood[0]=good-coal
 OutputCapacity[0]=300
 
-productivity=120
+productivity=300
 range=20
 
 Electricity_amount=150
