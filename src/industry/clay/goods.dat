@@ -17,7 +17,7 @@ name=good-clay
 mapcolor=79
 metric=tons
 catg=2
-value=45
+value=100
 speed_bonus=0
 weight_per_unit=1000
 
@@ -27,7 +27,7 @@ name=good-china
 mapcolor=79
 metric=crates
 catg=1
-value=45
+value=200
 speed_bonus=0
 weight_per_unit=75
 
@@ -37,6 +37,6 @@ name=good-coal
 mapcolor=176
 metric=t
 catg=2
-value=45
+value=100
 speed_bonus=0
 weight_per_unit=1000
