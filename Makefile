@@ -33,6 +33,7 @@ DIRS72 += src/vehicles/rail
 DIRS72 += src/vehicles/road
 DIRS72 += src/vehicles/water
 DIRS72 += src/ways/rails
+DIRS72 += src/ways/rails/bridges
 DIRS72 += src/ways/river
 DIRS72 += src/ways/roads
 

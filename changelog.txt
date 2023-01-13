@@ -1,5 +1,6 @@
 Changes since v0.01
 
+- Added a concrete bridge for rails
 - Added English language texts
 - Added German language texts
 - Muted clay pit colors somewhat to make it blend in better
@@ -11,4 +12,5 @@ Changes since v0.01
 - Darkened the landscape textures a bit
 - Reworked level 0 river graphics some
 - New special tools icon
+- Improved some icon looks
 

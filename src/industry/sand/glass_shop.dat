@@ -9,7 +9,7 @@ intro_year=1
 intro_month=1
 needs_ground=1
 
-productivity=20
+productivity=40
 range=5
 
 electricity_amount=100
