@@ -1,6 +1,6 @@
 --
 obj=vehicle
-name=h-trans_bus_mk2
+name=h-trans_bus_mk1
 copyright=HjM
 engine_type=diesel
 smoke=Diesel
@@ -27,7 +27,7 @@ EmptyImage[SW]=hjm-busses.0.7
 
 --
 obj=vehicle
-name=h-trans_bus_mk1
+name=h-trans_bus_mk2
 engine_type=diesel
 smoke=Diesel
 copyright=HjM
