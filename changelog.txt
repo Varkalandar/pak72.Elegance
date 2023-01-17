@@ -1,3 +1,10 @@
+Changes since v0.02
+
+- Added a market farm
+- Added a lake as tourist attraction
+- Adjusted truck running costs
+- Added English and German langauge entries
+
 Changes since v0.01
 
 - Added a concrete bridge for rails
