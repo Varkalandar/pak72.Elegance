@@ -1,0 +1,16 @@
+Obj=building
+Name=hjm-lake
+Type=cur
+Passengers=100
+intro_year=1
+chance=30
+dims=3,3,1
+BackImage[0][0][0][0][0][0]=hjm-lake.0.0
+BackImage[0][0][1][0][0][0]=hjm-lake.0.1
+BackImage[0][0][2][0][0][0]=hjm-lake.0.2
+BackImage[0][1][0][0][0][0]=hjm-lake.1.0
+BackImage[0][1][1][0][0][0]=hjm-lake.1.1
+BackImage[0][1][2][0][0][0]=hjm-lake.1.2
+BackImage[0][2][0][0][0][0]=hjm-lake.2.0
+BackImage[0][2][1][0][0][0]=hjm-lake.2.1
+BackImage[0][2][2][0][0][0]=hjm-lake.2.2
