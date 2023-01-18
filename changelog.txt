@@ -4,6 +4,8 @@ Changes since v0.02
 - Added a lake as tourist attraction
 - Adjusted truck running costs
 - Added English and German langauge entries
+- Fixed bad pixels in snow texture display
+- Adjusted some too bright buildings
 
 Changes since v0.01
 
