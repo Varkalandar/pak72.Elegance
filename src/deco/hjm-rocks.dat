@@ -1,0 +1,43 @@
+#
+# Rocks for Simutrans pak72.Elegance
+#
+# author: Hj. Malthaner
+#
+# created:  2023/01/19
+# update:   2023/01/19
+#
+obj=ground_obj
+name=ground_obj_rock_1
+copyright=HjM
+cost=1000
+noinfo=1
+trees_on_top=0
+DistributionWeight=6
+climates=desert, tropic, mediterran, temperate, tundra, rocky, arctic
+seasons=2
+Image[0][0]=hjm-rocks.0.0
+Image[0][1]=hjm-rocks.1.0
+--
+obj=ground_obj
+name=ground_obj_rock_2
+copyright=HjM
+cost=1000
+noinfo=1
+trees_on_top=0
+DistributionWeight=5
+climates=tropic, mediterran, temperate, tundra, rocky, arctic
+seasons=2
+Image[0][0]=hjm-rocks.0.1
+Image[0][1]=hjm-rocks.1.1
+--
+obj=ground_obj
+name=ground_obj_rock_3
+copyright=HjM
+cost=1000
+noinfo=1
+trees_on_top=0
+DistributionWeight=4
+climates=tropic, mediterran, temperate, tundra, rocky, arctic
+seasons=2
+Image[0][0]=hjm-rocks.0.2
+Image[0][1]=hjm-rocks.1.2
