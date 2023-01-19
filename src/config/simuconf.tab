@@ -115,7 +115,7 @@ factory_enforce_demand = 1
 ###################################display stuff##################################
 
 # show random objects to break uniformity (every n suited tiles)
-random_grounds_probability = 6
+random_grounds_probability = 20
 
 # show random moving animals (n = every n suited tiles)
 random_wildlife_probability = 1000
