@@ -7,6 +7,9 @@ Changes since v0.02
 - Fixed bad pixels in snow texture display
 - Adjusted some too bright buildings
 - Fixed marker and border grids
+- Darkened overland road a bit
+- Adjusted some icons to the new style
+- Gave two trees more season graphics and a new winter style, more to do.
 
 
 Changes since v0.01
