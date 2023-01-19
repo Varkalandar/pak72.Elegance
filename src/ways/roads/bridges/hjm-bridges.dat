@@ -7,7 +7,7 @@
 # update:   2023/01/12
 #
 Obj=bridge
-name=hjm-concrete_bridge
+name=hjm-concrete_road_bridge
 copyright=HjM
 waytype=road
 cost=24000
