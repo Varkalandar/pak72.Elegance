@@ -9,8 +9,8 @@ Changes since v0.02
 - Fixed marker and border grids
 - Darkened overland road a bit
 - Adjusted some icons to the new style
-- Gave two trees more season graphics and a new winter style, more to do.
-
+- Gave three trees more season graphics and a new winter style, more to do.
+- Added winter graphics to some rocks
 
 Changes since v0.01
 
