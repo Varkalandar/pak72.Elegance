@@ -6,36 +6,35 @@ DistributionWeight=50
 climates=mediterran,temperate,tundra,rocky
 seasons=5
 # July - September (Summer)
-Image[0][0]=hjm-birch.0.0
-Image[1][0]=hjm-birch.0.1
-Image[2][0]=hjm-birch.0.2
-Image[3][0]=hjm-birch.0.3
-Image[4][0]=hjm-birch.0.4
+Image[0][0]=hjm-birch_seasons.1.0
+Image[1][0]=hjm-birch_seasons.1.1
+Image[2][0]=hjm-birch_seasons.1.2
+Image[3][0]=hjm-birch_seasons.1.3
+Image[4][0]=hjm-birch_seasons.1.4
 # October - December (Autumn)
-Image[0][1]=hjm-birch.2.0
-Image[1][1]=hjm-birch.2.1
-Image[2][1]=hjm-birch.2.2
-Image[3][1]=hjm-birch.2.3
-Image[4][1]=hjm-birch.2.4
+Image[0][1]=hjm-birch_seasons.2.0
+Image[1][1]=hjm-birch_seasons.2.1
+Image[2][1]=hjm-birch_seasons.2.2
+Image[3][1]=hjm-birch_seasons.2.3
+Image[4][1]=hjm-birch_seasons.2.4
 # January - March (Winter)
-Image[0][2]=hjm-birch.3.0
-Image[1][2]=hjm-birch.3.1
-Image[2][2]=hjm-birch.3.2
-Image[3][2]=hjm-birch.3.3
-Image[4][2]=hjm-birch.3.4
+Image[0][2]=hjm-birch_seasons.3.0
+Image[1][2]=hjm-birch_seasons.3.1
+Image[2][2]=hjm-birch_seasons.3.2
+Image[3][2]=hjm-birch_seasons.3.3
+Image[4][2]=hjm-birch_seasons.3.4
 # April - June (Spring)
-Image[0][3]=hjm-birch.0.0
-Image[1][3]=hjm-birch.0.1
-Image[2][3]=hjm-birch.0.2
-Image[3][3]=hjm-birch.0.3
-Image[4][3]=hjm-birch.0.4
+Image[0][3]=hjm-birch_seasons.0.0
+Image[1][3]=hjm-birch_seasons.0.1
+Image[2][3]=hjm-birch_seasons.0.2
+Image[3][3]=hjm-birch_seasons.0.3
+Image[4][3]=hjm-birch_seasons.0.4
 # January - March (Winter) - with snow
-Image[0][4]=hjm-birch.1.0
-Image[1][4]=hjm-birch.1.1
-Image[2][4]=hjm-birch.1.2
-Image[3][4]=hjm-birch.1.3
-Image[4][4]=hjm-birch.1.4
-
+Image[0][4]=hjm-birch_seasons.4.0
+Image[1][4]=hjm-birch_seasons.4.1
+Image[2][4]=hjm-birch_seasons.4.2
+Image[3][4]=hjm-birch_seasons.4.3
+Image[4][4]=hjm-birch_seasons.4.4
 --
 Obj=tree
 Name=hjm-beech
@@ -44,35 +43,35 @@ DistributionWeight=50
 climates=mediterran,temperate,tundra
 seasons=5
 # July - September (Summer)
-Image[0][0]=hjm-beech.0.0
-Image[1][0]=hjm-beech.0.1
-Image[2][0]=hjm-beech.0.2
-Image[3][0]=hjm-beech.0.3
-Image[4][0]=hjm-beech.0.4
+Image[0][0]=hjm-beech_seasons.1.0
+Image[1][0]=hjm-beech_seasons.1.1
+Image[2][0]=hjm-beech_seasons.1.2
+Image[3][0]=hjm-beech_seasons.1.3
+Image[4][0]=hjm-beech_seasons.1.4
 # October - December (Autumn)
-Image[0][1]=hjm-beech.2.0
-Image[1][1]=hjm-beech.2.1
-Image[2][1]=hjm-beech.2.2
-Image[3][1]=hjm-beech.2.3
-Image[4][1]=hjm-beech.2.4
+Image[0][1]=hjm-beech_seasons.2.0
+Image[1][1]=hjm-beech_seasons.2.1
+Image[2][1]=hjm-beech_seasons.2.2
+Image[3][1]=hjm-beech_seasons.2.3
+Image[4][1]=hjm-beech_seasons.2.4
 # January - March (Winter)
-Image[0][2]=hjm-beech.1.0
-Image[1][2]=hjm-beech.1.1
-Image[2][2]=hjm-beech.1.2
-Image[3][2]=hjm-beech.1.3
-Image[4][2]=hjm-beech.1.4
+Image[0][2]=hjm-beech_seasons.3.0
+Image[1][2]=hjm-beech_seasons.3.1
+Image[2][2]=hjm-beech_seasons.3.2
+Image[3][2]=hjm-beech_seasons.3.3
+Image[4][2]=hjm-beech_seasons.3.4
 # April - June (Spring)
-Image[0][3]=hjm-beech.0.0
-Image[1][3]=hjm-beech.0.1
-Image[2][3]=hjm-beech.0.2
-Image[3][3]=hjm-beech.0.3
-Image[4][3]=hjm-beech.0.4
+Image[0][3]=hjm-beech_seasons.0.0
+Image[1][3]=hjm-beech_seasons.0.1
+Image[2][3]=hjm-beech_seasons.0.2
+Image[3][3]=hjm-beech_seasons.0.3
+Image[4][3]=hjm-beech_seasons.0.4
 # January - March (Winter) - with snow
-Image[0][4]=hjm-beech.3.0
-Image[1][4]=hjm-beech.3.1
-Image[2][4]=hjm-beech.3.2
-Image[3][4]=hjm-beech.3.3
-Image[4][4]=hjm-beech.3.4
+Image[0][4]=hjm-beech_seasons.4.0
+Image[1][4]=hjm-beech_seasons.4.1
+Image[2][4]=hjm-beech_seasons.4.2
+Image[3][4]=hjm-beech_seasons.4.3
+Image[4][4]=hjm-beech_seasons.4.4
 
 --
 Obj=tree
