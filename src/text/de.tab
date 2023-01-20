@@ -106,6 +106,8 @@ good-oiltype
 Öl
 good-sand
 Sand
+good-vegetables
+Gemüse und Blumen
 goods_station
 Warenstations
 good-watertype
@@ -160,7 +162,7 @@ hjm-land_road
 Landsttraße
 hjm-mailboat
 Postboot
-hjm-market_farm
+hjm-market_garden
 Gärtnerei
 hjm-old_rail_tunnel
 Alter Schienentunnel

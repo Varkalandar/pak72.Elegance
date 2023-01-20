@@ -88,6 +88,8 @@ good-sand
 Sand
 good-watertype
 Water
+good-vegetables
+Vegetables and Flowers
 ground_obj_rock_1
 A rock
 ground_obj_rock_2
@@ -134,8 +136,8 @@ hjm-land_road
 Overland Road
 hjm-mailboat
 Mail Boat
-hjm-market_farm
-Market Farm
+hjm-market_garden
+Market Garden
 hjm-passenger_car
 Passenger Coach
 hjm-pink_flowers
