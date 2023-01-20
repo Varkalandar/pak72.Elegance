@@ -11,6 +11,7 @@ Changes since v0.02
 - Adjusted some icons to the new style
 - Gave three trees more season graphics and a new winter style, more to do.
 - Added winter graphics to some rocks
+- Improved shore transitions and water textures
 
 Changes since v0.01
 

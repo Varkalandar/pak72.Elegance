@@ -2,7 +2,7 @@
 Obj=ground
 Name=Water
 copyright=HjM
-Image[0][0]=hjm-water.0.0
+Image[0][0]=hjm-water.0.5
 Image[1][0]=hjm-water.0.0
 Image[2][0]=hjm-water.0.1
 Image[3][0]=hjm-water.0.2
