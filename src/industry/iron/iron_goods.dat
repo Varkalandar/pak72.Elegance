@@ -21,3 +21,12 @@ speed_bonus=0
 weight_per_unit=1000
 MapColor=71
 --
+obj=good
+name=good-rolled_steel
+metric=beams
+catg=1
+value=45
+speed_bonus=0
+weight_per_unit=200
+MapColor=214
+--

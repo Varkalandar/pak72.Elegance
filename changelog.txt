@@ -1,6 +1,7 @@
 Changes since v0.03
 
 - Added surface iron mine from pak128
+- Added steel mill from pak128
 
 Changes since v0.02
 
