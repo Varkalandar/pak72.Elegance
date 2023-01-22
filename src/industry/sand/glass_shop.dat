@@ -9,7 +9,7 @@ intro_year=1
 intro_month=1
 needs_ground=1
 
-productivity=40
+productivity=45
 range=5
 
 electricity_amount=100
@@ -21,11 +21,15 @@ Passenger_boost=500
 
 InputGood[0]=good-china
 InputCapacity[0]=125 
-InputSupplier[1]=0
+InputSupplier[0]=0
 
 InputGood[1]=good-glass_products
-InputCapacity[1]=300
+InputCapacity[1]=125
 InputSupplier[1]=1
+
+InputGood[2]=good-iron_ore
+InputCapacity[2]=125
+InputSupplier[2]=1
 
 MapColor=223
 dims=3,1,2

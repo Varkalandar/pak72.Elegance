@@ -22,6 +22,7 @@ DIRS72 += src/deco
 DIRS72 += src/industry
 DIRS72 += src/industry/clay
 DIRS72 += src/industry/sand
+DIRS72 += src/industry/iron
 DIRS72 += src/player
 DIRS72 += src/player/rail
 DIRS72 += src/player/road

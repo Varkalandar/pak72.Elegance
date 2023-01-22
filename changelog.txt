@@ -1,9 +1,13 @@
+Changes since v0.03
+
+- Added surface iron mine from pak128
+
 Changes since v0.02
 
 - Added a market farm
 - Added a lake as tourist attraction
 - Adjusted truck running costs
-- Added English and German langauge entries
+- Added English and German language entries
 - Fixed bad pixels in snow texture display
 - Adjusted some too bright buildings
 - Fixed marker and border grids
