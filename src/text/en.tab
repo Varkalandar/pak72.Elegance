@@ -84,6 +84,8 @@ good-long
 Long goods
 good-oiltype
 Oil
+good-rolled_steel
+Steel bars
 good-sand
 Sand
 good-watertype
@@ -138,6 +140,8 @@ hjm-mailboat
 Mail Boat
 hjm-market_garden
 Market Garden
+hjm-metal_works
+Metal Works
 hjm-passenger_car
 Passenger Coach
 hjm-pink_flowers
@@ -286,6 +290,8 @@ SimpleTools
 Simple Tools
 Slopes
 Slopes
+steel_mill
+Steel Mill
 surface_iron_ore_mine
 Surface Iron Ore Mine
 tanne_1

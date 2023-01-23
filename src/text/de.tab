@@ -104,6 +104,8 @@ good-long
 Langgut
 good-oiltype
 Öl
+good-rolled_steel
+Stahlstangen
 good-sand
 Sand
 good-vegetables
@@ -164,6 +166,8 @@ hjm-mailboat
 Postboot
 hjm-market_garden
 Gärtnerei
+hjm-metal_works
+Metallverarbeitende Fabrik
 hjm-old_rail_tunnel
 Alter Schienentunnel
 hjm-old_road_tunnel
@@ -353,6 +357,8 @@ SimpleTools
 Werkzeuge
 Steam
 Dampf
+steel_mill
+Stahlwerk
 surface_iron_ore_mine
 Eisenerz Tagebau
 tanne_1

@@ -23,10 +23,10 @@ MapColor=71
 --
 obj=good
 name=good-rolled_steel
-metric=beams
-catg=1
-value=45
+metric=t
+catg=6
+value=60
 speed_bonus=0
-weight_per_unit=200
+weight_per_unit=1000
 MapColor=214
 --

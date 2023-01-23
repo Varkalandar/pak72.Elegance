@@ -27,10 +27,6 @@ InputGood[1]=good-glass_products
 InputCapacity[1]=125
 InputSupplier[1]=1
 
-InputGood[2]=good-rolled_steel
-InputCapacity[2]=125
-InputSupplier[2]=1
-
 MapColor=223
 dims=3,1,2
 
