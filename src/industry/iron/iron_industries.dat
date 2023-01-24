@@ -10,7 +10,7 @@ intro_month=1
 needs_ground=1
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 
-productivity=25
+productivity=250
 range=5
 
 electricity_amount=100
@@ -64,7 +64,7 @@ intro_month=1
 needs_ground=1
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 
-productivity=40
+productivity=100
 range=5
 
 electricity_amount=100
@@ -77,10 +77,12 @@ Passenger_boost=500
 InputGood[0]=good-iron_ore
 InputCapacity[0]=200 
 InputSupplier[0]=1
+InputFactor[0]=400
 
 InputGood[1]=good-coal
 InputCapacity[1]=200 
 InputSupplier[1]=0
+InputFactor[1]=200
 
 OutputGood[0]=good-rolled_steel
 OutputCapacity[0]=250

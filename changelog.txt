@@ -2,6 +2,8 @@ Changes since v0.03
 
 - Added surface iron mine from pak128
 - Added steel mill from pak128
+- Added metal working factory
+- Added a new diesel engine
 
 Changes since v0.02
 

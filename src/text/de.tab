@@ -100,6 +100,8 @@ good-coal
 Kohle
 good-glass_products
 Glaswaren
+good-iron_ore
+Eisenerz
 good-long
 Langgut
 good-oiltype
@@ -138,10 +140,12 @@ hjm-concrete_bridge
 Betonbrücke
 hjm-concrete_road_bridge
 Betonbrücke
+hjm-diesel_engine_18
+Diesellok D18
 hjm-diesel_engine_25
-Diesellok T25
+Diesellok D25
 hjm-diesel_engine_3
-Diesellok T3
+Diesellok D3
 hjm-flat_shed
 Hütte
 hjm-flowers-1
