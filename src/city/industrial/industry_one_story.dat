@@ -43,8 +43,8 @@ seasons=2
 # water, desert, tropic, mediterran, temperate, tundra, rocky, arctic
 climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
 # ??, ??, ??, ??, ??, ??, season
-BackImage[0][0][0][0][0][0]=hjm-storage_sheds.3.0
-BackImage[0][0][0][0][0][1]=hjm-storage_sheds.3.1
+BackImage[0][0][0][0][0][0]=hjm-ind_one_story.0.2
+BackImage[0][0][0][0][0][1]=hjm-ind_one_story.0.3
 
 --
 Obj=building
