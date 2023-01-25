@@ -1,0 +1,20 @@
+#
+# A small barn for Simutrans pak72.Elegance
+#
+# author: Hj. Malthaner
+#
+# created:  2023/01/25
+# update:   2023/01/25
+#
+obj=ground_obj
+name=hjm-small_barn
+copyright=HjM
+cost=10000
+noinfo=1
+trees_on_top=0
+DistributionWeight=5
+climates=desert,tropic,mediterran,temperate,tundra,rocky
+seasons=2
+Image[0][0]=hjm-small_barn.0.0
+Image[0][1]=hjm-small_barn.0.1
+--

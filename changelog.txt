@@ -4,6 +4,7 @@ Changes since v0.03
 - Added steel mill from pak128
 - Added metal working factory
 - Added a new diesel engine
+- Added a random small barn as decoration
 
 Changes since v0.02
 
