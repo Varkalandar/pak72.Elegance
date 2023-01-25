@@ -4,7 +4,7 @@ MAKEOBJ ?= ./makeobj
 DESTDIR  ?= ./
 PAKDIR   ?= $(DESTDIR)/pak72.Elegance
 ADDONDIR ?= $(DESTDIR)/addons/pak72.Elegance
-PAKVERSION ?= 03
+PAKVERSION ?= 04
 DESTFILE ?= pak72.Elegance_v0$(PAKVERSION)
 INSTALL ?= ../c/sim/simutrans/pak72.Elegance
 
