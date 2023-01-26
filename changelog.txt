@@ -5,6 +5,8 @@ Changes since v0.03
 - Added metal working factory
 - Added a new diesel engine
 - Added a random small barn as decoration
+- Imported a tree from pak64
+- Increased productivity of some clay related industries
 
 Changes since v0.02
 
