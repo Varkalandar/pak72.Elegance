@@ -11,7 +11,7 @@ climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 #Location=City
 location=Land
 chance=6  
-productivity=24
+productivity=70
 range=15
 MapColor=114
 

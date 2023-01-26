@@ -120,7 +120,7 @@ intro_month=1
 needs_ground=1
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 
-productivity=30
+productivity=100
 range=5
 
 electricity_amount=100

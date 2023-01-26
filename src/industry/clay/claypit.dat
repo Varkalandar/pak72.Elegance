@@ -1,8 +1,7 @@
 --
 Obj=factory
 name=clay_pit
-copyright=James, Vks
-parameters=ground(natural_flat)
+copyright=James
 intro_year=1
 intro_month=1
 pax_level=20
@@ -11,7 +10,7 @@ needs_ground=1
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 location=Land
 chance=2  
-productivity=96
+productivity=110
 range=40
 MapColor=93 
 OutputGood[0]=good-clay
