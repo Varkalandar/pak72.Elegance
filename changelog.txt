@@ -1,3 +1,10 @@
+Changes since v0.04
+
+- Improved mail, passenger and freight symbols for depot window
+- Quadrupled productivity of the glass factory
+- Some vehicles had zero price, gave them proper prices
+- Fixed German translation. It was broken from about letter L upwards
+
 Changes since v0.03
 
 - Added surface iron mine from pak128
