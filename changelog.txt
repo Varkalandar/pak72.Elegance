@@ -1,3 +1,8 @@
+Changes since v0.05
+
+- Added a new tree with seasons
+- Added a logo for the loading screen
+
 Changes since v0.04
 
 - Improved mail, passenger and freight symbols for depot window

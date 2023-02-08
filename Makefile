@@ -40,7 +40,7 @@ DIRS72 += src/ways/roads/bridges
 DIRS72 += src/ways/river
 
 DIRS128 :=
-DIRS128 += src/big-logo
+DIRS128 += src/big_logo
 DIRS128 += src/sights/land/128
 
 DIRS192 :=
