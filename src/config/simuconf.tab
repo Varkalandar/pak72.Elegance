@@ -81,7 +81,7 @@ beginner_price_factor = 1500
 #industry_increase_every = 4000
 
 # smallest distance between two adjacent factories
-factory_spacing = 9
+factory_spacing = 7
 
 # allow all possible supplier to connect to your factories?
 # best to leave it in default position. (only on for simuTTD)
@@ -89,7 +89,7 @@ crossconnect_factories = 0
 
 # how big is the chance for crossconnections in percent
 # (100% will give nearly the same results as crossconnect_factories=1)
-crossconnect_factories_percentage = 33
+crossconnect_factories_percentage = 100
 
 # true if transformers are allowed underground (default)
 

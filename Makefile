@@ -4,7 +4,7 @@ MAKEOBJ ?= ./makeobj
 DESTDIR  ?= ./
 PAKDIR   ?= $(DESTDIR)/pak72.Elegance
 ADDONDIR ?= $(DESTDIR)/addons/pak72.Elegance
-PAKVERSION ?= 05
+PAKVERSION ?= 06
 DESTFILE ?= pak72.Elegance_v0$(PAKVERSION)
 INSTALL ?= ../c/sim/simutrans/pak72.Elegance
 
@@ -23,6 +23,7 @@ DIRS72 += src/industry
 DIRS72 += src/industry/clay
 DIRS72 += src/industry/sand
 DIRS72 += src/industry/iron
+DIRS72 += src/industry/market
 DIRS72 += src/player
 DIRS72 += src/player/rail
 DIRS72 += src/player/road

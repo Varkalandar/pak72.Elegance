@@ -1,0 +1,23 @@
+obj=factory
+name=vegetable_market
+copyright=Raven, HjM
+
+location=City
+distributionWeight=1
+mapcolor=104
+
+intro_year=1
+intro_month=1
+
+productivity=60
+range=10
+
+InputGood[0]=good-vegetables
+InputCapacity[0]=50
+InputSupplier[0]=0
+
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=market.0.0
+BackImage[0][0][1][0][0][0]=market.0.1
+BackImage[0][1][0][0][0][0]=market.1.0
+BackImage[0][1][1][0][0][0]=market.1.1

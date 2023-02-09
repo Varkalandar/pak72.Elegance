@@ -1,7 +1,9 @@
 Changes since v0.05
 
+- Added a market as additional customer for vegetables and flowers
 - Added a new tree with seasons
 - Added a logo for the loading screen
+- Changed crosscommect probability to 100%
 
 Changes since v0.04
 
