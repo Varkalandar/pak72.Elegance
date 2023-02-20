@@ -30,3 +30,12 @@ speed_bonus=0
 weight_per_unit=1000
 MapColor=214
 --
+obj=good
+name=good-hardware
+metric=crates
+catg=1
+value=60
+speed_bonus=0
+weight_per_unit=300
+MapColor=212
+--
