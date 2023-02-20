@@ -1,3 +1,9 @@
+Changes since v0.06
+
+- Fixed some gaps in the wooden sleeper railroad track graphics
+- Changel the metal works to produce hardware
+- Added two hardware stores which also sell china and glass ware
+
 Changes since v0.05
 
 - Added a market as additional customer for vegetables and flowers
