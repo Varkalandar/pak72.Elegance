@@ -1,0 +1,25 @@
+--
+obj=vehicle
+name=hjm-steam_engine_01
+waytype=track
+copyright=HjM
+freight=None
+engine_type=steam
+smoke=Steam
+speed=50
+gear=200
+cost=440000
+weight=30
+power=240
+RunningCost=390
+sound=3
+intro_year = 1
+EmptyImage[S]=hjm-s01.0.0
+EmptyImage[E]=hjm-s01.0.1
+EmptyImage[SE]=hjm-s01.0.2
+EmptyImage[SW]=hjm-s01.0.3
+EmptyImage[N]=hjm-s01.0.4
+EmptyImage[W]=hjm-s01.0.5
+EmptyImage[NW]=hjm-s01.0.6
+EmptyImage[NE]=hjm-s01.0.7
+

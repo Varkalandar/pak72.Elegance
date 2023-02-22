@@ -3,6 +3,7 @@ Changes since v0.06
 - Fixed some gaps in the wooden sleeper railroad track graphics
 - Changed the metal works to produce hardware
 - Added two hardware stores which also sell china and glass ware
+- Added a first steam engine
 
 Changes since v0.05
 
