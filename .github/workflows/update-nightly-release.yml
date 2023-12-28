@@ -14,9 +14,9 @@ jobs:
         fetch-depth: 0
 
     - name: build
-      run:
+      run: |
         make
-        VER=$(cat VERSION)
+        VER=$(cat version.txt)
         echo "PAK_VERSION=$VER" >> $GITHUB_ENV
 
     - name: set current head to nightly
