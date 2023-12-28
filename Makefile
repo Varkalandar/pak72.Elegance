@@ -64,7 +64,7 @@ zip: $(DESTFILE).zip
 
 $(DESTFILE).zip: $(PAKDIR)
 	@echo "===> ZIP $@"
-	@zip -rq -9 $@ $(DESTDIR)
+	@zip -rq -9 $@ $(PAKDIR)
 
 copy:
 	@echo "===> COPY"
