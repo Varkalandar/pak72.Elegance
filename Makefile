@@ -51,7 +51,7 @@ DIRS := $(DIRS192) $(DIRS64) $(DIRS72) $(DIRS128)
 
 .PHONY: $(DIRS) copy zip
 
-all: copy $(DIRS) zip
+all: version copy $(DIRS) zip
 
 archives: zip
 
@@ -100,9 +100,10 @@ version:
 	@rm -f src/ground/outside.dat
 	@echo "Obj=ground" >src/ground/outside.dat
 	@echo "Name=Outside" >>src/ground/outside.dat
-	@echo "copyright=pak144.Excentrique v0.$(PAKVERSION)" >>src/ground/outside.dat
+	@echo "copyright=pak72.Elegance v0.$(PAKVERSION)" >>src/ground/outside.dat
 	@echo "Image[0][0]=hjm-outside.0.0" >>src/ground/outside.dat
 	@echo "----------" >>src/ground/outside.dat
+	@echo "$(PAKVERSION)" >version.txt
 
 clean:
 	@echo "===> CLEAN"

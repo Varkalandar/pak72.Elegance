@@ -1,0 +1,50 @@
+name: Update nightly release
+
+on: [push]
+
+jobs:
+  update-nightly:
+  
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - name: build
+      run:
+        make
+        VER=$(cat VERSION)
+        echo "PAK_VERSION=$VER" >> $GITHUB_ENV
+
+    - name: set current head to nightly
+      uses: richardsimko/update-tag@v1
+      with:
+          tag_name: Nightly
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: debug env variables
+      run:
+        echo ${{ env.PAK_VERSION }}
+
+    - name: prepare release
+      uses: meeDamian/github-release@2.0
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        tag: Nightly
+        name: pak72.Elegance Nightly Build
+        body: Pak72.Elegance is a pak set for the game Simutrans
+        allow_override: true
+
+    - name: Update binaries of Nightly Release
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: pak72.Elegance_v0${{ env.PAK_VERSION }}.zip
+        asset_name: pak72.Elegance_v0${{ env.PAK_VERSION }}.zip
+        tag: Nightly
+        overwrite: true
+
