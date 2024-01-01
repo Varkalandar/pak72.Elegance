@@ -90,3 +90,6 @@ ImageUp[3][0]=new_city_road.1.3
 ImageUp[6][0]=new_city_road.1.4
 ImageUp[9][0]=new_city_road.0.0
 ImageUp[12][0]=new_city_road.0.5
+
+street_light=light_sparks.0.0
+
