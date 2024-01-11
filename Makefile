@@ -1,5 +1,6 @@
 
 MAKEOBJ ?= ./makeobj
+#MAKEOBJ ?= ./makepak
 
 DESTDIR  ?= ./
 PAKDIR   ?= $(DESTDIR)/pak72.Elegance
