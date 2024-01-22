@@ -1,0 +1,10 @@
+hjm-small_barn.friends = rapeseed_field_1, rapeseed_field_2, random_field_1, random_field_2, lavender_field_1, lavender_field_2
+lavender_field_1.friends = lavender_field_2
+lavender_field_2.friends = lavender_field_1
+rapeseed_field_1.friends = rapeseed_field_1, random_field_1
+rapeseed_field_2.friends = rapeseed_field_2, random_field_2
+random_field_1.friends = rapeseed_field_1,  random_field_1
+random_field_2.friends = rapeseed_field_2,  random_field_2
+random_field_3.friends = random_field_3
+random_field_4.friends = random_field_4
+
