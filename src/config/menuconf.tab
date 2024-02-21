@@ -180,7 +180,7 @@ simple_tool[34]=,O
 
 
 # THIRD SECTION: dialoge tools
-# since these tools immeadiately open only a dialoge,
+# since these tools only open a dialoge,
 # they have only an icon assigned
 # each entry has the form: dialoge_tool[i],a,k
 # i is the tool number (as seen below)
@@ -307,7 +307,7 @@ toolbar[0][2]=general_tool[0]
 toolbar[0][3]=toolbar[1],0,,SLOPETOOLS,slopetools.txt
 toolbar[0][4]=toolbar[2],1,,RAILTOOLS,railtools.txt
 toolbar[0][5]=toolbar[3],2,,MONORAILTOOLS,monorailtools.txt
-toolbar[0][6]=toolbar[4],3,,TRAMTOOLS,tramtools.txt
+toolbar[0][6]=toolbar[4],3,,MAGLEVTOOLS,maglevtools.txt
 toolbar[0][7]=toolbar[5],4,,ROADTOOLS,roadtools.txt
 toolbar[0][8]=toolbar[6],5,,SHIPTOOLS,shiptools.txt
 toolbar[0][9]=toolbar[7],6,,AIRTOOLS,airtools.txt
@@ -383,18 +383,18 @@ toolbar[3][7]=buildings(33,5)
 toolbar[3][8]=buildings(34,5)
 toolbar[3][9]=buildings(35,5)
 
-# tramtools (waytype 7)
-toolbar[4][0]=ways(7,0)
-toolbar[4][1]=ways(2,7)
-toolbar[4][2]=bridges(2)
-toolbar[4][3]=tunnels(2)
-toolbar[4][4]=general_tool[17],21,,2
-toolbar[4][5]=wayobjs(2)
-toolbar[4][6]=general_tool[33],28,,2
-toolbar[4][7]=signs(2)
-toolbar[4][8]=buildings(33,7)
-toolbar[4][9]=buildings(34,2)
-toolbar[4][10]=buildings(34,1)
+# maglevtools (waytype 6)
+toolbar[4][0]=ways(6,0)
+toolbar[4][1]=ways(6,1)
+toolbar[4][2]=bridges(6)
+toolbar[4][3]=tunnels(6)
+toolbar[4][4]=general_tool[17],21,,6
+toolbar[4][5]=wayobjs(6)
+toolbar[4][6]=general_tool[33],28,,6
+toolbar[4][7]=signs(6)
+toolbar[4][8]=buildings(33,6)
+toolbar[4][9]=buildings(34,6)
+toolbar[4][10]=buildings(35,6)
 
 # roadtools (waytype 1)
 toolbar[5][0]=ways(1,0)

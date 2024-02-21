@@ -40,6 +40,7 @@ DIRS72 += src/ways/rails/bridges
 DIRS72 += src/ways/roads
 DIRS72 += src/ways/roads/bridges
 DIRS72 += src/ways/river
+DIRS72 += src/ways/maglev
 
 DIRS128 :=
 DIRS128 += src/big_logo
