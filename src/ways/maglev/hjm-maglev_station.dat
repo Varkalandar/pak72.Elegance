@@ -1,0 +1,32 @@
+#
+# Maglev stations for Simutrans pak72.Excentrique
+#
+# Author: Hj. Malthaner
+#
+# Created:  2024/02/21
+# Update:   2024/02/21
+#
+# BackImage[Layout][x Position][y Position][Height][Phase][Season]
+#
+Obj=building
+Name=hjm-maglev_station
+type=stop
+waytype=maglev_track
+level=2
+enables_pax=1
+enables_post=1
+enables_ware=1
+NoInfo=1
+intro_year=1
+intro_month=1
+Dims=1,1,2
+icon=> hjm-maglev_station.1.0
+cursor=hjm-maglev_station.1.1
+BackImage[0][0][0][0][0][0]=hjm-maglev_station.0.3
+FrontImage[0][0][0][0][0][0]=hjm-maglev_station.0.4
+BackImage[1][0][0][0][0][0]=hjm-maglev_station.0.1
+FrontImage[1][0][0][0][0][0]=hjm-maglev_station.0.0
+BackImage[0][0][0][0][0][1]=hjm-maglev_station.0.1
+FrontImage[0][0][0][0][0][1]=hjm-maglev_station.0.0
+BackImage[1][0][0][0][0][1]=hjm-maglev_station.0.3
+FrontImage[1][0][0][0][0][1]=hjm-maglev_station.0.2
