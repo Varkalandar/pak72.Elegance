@@ -1,0 +1,21 @@
+--
+obj=vehicle
+name=hjm-maglev_mail
+waytype=maglev_track
+copyright=HjM
+freight=Post
+capacity=70
+speed=300
+cost=80000
+weight=20
+RunningCost=30
+intro_year = 1
+EmptyImage[S]=hjm-mail_car.0.0
+EmptyImage[E]=hjm-mail_car.0.1
+EmptyImage[SE]=hjm-mail_car.0.2
+EmptyImage[SW]=hjm-mail_car.0.3
+EmptyImage[N]=hjm-mail_car.0.4
+EmptyImage[W]=hjm-mail_car.0.5
+EmptyImage[NW]=hjm-mail_car.0.6
+EmptyImage[NE]=hjm-mail_car.0.7
+
