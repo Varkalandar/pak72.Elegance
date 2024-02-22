@@ -1,0 +1,41 @@
+#
+# Maglev depot for Simutrans pak72.Elegance
+#
+# Author: Hj. Malthaner
+#
+# Created:  2024/02/21
+# Update:   2024/02/21
+#
+#
+# climates: desert, tropic, mediterran, temperate, tundra, rocky
+# BackImage[Layout][x Position][y Position][Height][Phase][Season]
+# FrontImage[Layout][x Position][y Position][Height][Phase][Season]
+#
+Obj=building
+Name=hjm-maglev-depot
+copyright=HjM
+type=depot
+waytype=maglev_track
+# must be 1*1
+level=1
+Dims=1,1,4
+NoInfo=1
+intro_year=1
+intro_month=1
+icon=> hjm-maglev_depot.1.0
+cursor=hjm-maglev_depot.1.1
+# summer
+BackImage[0][0][0][0][0][0]=hjm-maglev_depot.0.2
+BackImage[1][0][0][0][0][0]=hjm-maglev_depot.0.0
+FrontImage[0][0][0][0][0][0]=hjm-maglev_depot.0.3
+FrontImage[1][0][0][0][0][0]=hjm-maglev_depot.0.1
+FrontImage[2][0][0][0][0][0]=hjm-maglev_depot.1.3
+FrontImage[3][0][0][0][0][0]=hjm-maglev_depot.1.2
+# winter
+BackImage[0][0][0][0][0][1]=hjm-maglev_depot.0.2
+BackImage[1][0][0][0][0][1]=hjm-maglev_depot.0.0
+FrontImage[0][0][0][0][0][1]=hjm-maglev_depot.0.3
+FrontImage[1][0][0][0][0][1]=hjm-maglev_depot.0.1
+FrontImage[2][0][0][0][0][1]=hjm-maglev_depot.1.3
+FrontImage[3][0][0][0][0][1]=hjm-maglev_depot.1.2
+-----------------------
