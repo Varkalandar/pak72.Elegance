@@ -116,7 +116,8 @@ Image[28]=> wkz_rock_icons.5.6
 Image[29]=> wkz_rock_icons.1.12
 # Powerline tools
 Image[30]=> single_icons/hjm-powerlines.0.0
-Image[31]=-
+# Maglev
+Image[31]=> wkz_rock_icons.3.12
 Image[32]=-
 Image[33]=-
 Image[34]=-
