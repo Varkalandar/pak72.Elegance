@@ -1,0 +1,21 @@
+--
+obj=vehicle
+name=hjm-maglev_pax
+waytype=maglev_track
+copyright=HjM
+freight=Passagiere
+capacity=64
+speed=300
+cost=120000
+weight=20
+RunningCost=50
+intro_year = 1
+EmptyImage[S]=hjm-passenger_car.0.0
+EmptyImage[E]=hjm-passenger_car.0.1
+EmptyImage[SE]=hjm-passenger_car.0.2
+EmptyImage[SW]=hjm-passenger_car.0.3
+EmptyImage[N]=hjm-passenger_car.0.4
+EmptyImage[W]=hjm-passenger_car.0.5
+EmptyImage[NW]=hjm-passenger_car.0.6
+EmptyImage[NE]=hjm-passenger_car.0.7
+

@@ -1,0 +1,24 @@
+--
+obj=vehicle
+name=hjm-eggson
+waytype=maglev_track
+copyright=HjM
+freight=None
+engine_type=diesel
+speed=300
+gear=150
+cost=1200000
+weight=64
+power=1840
+RunningCost=500
+sound=2
+intro_year = 1
+EmptyImage[S]=hjm-eggson.0.0
+EmptyImage[E]=hjm-eggson.0.1
+EmptyImage[SE]=hjm-eggson.0.2
+EmptyImage[SW]=hjm-eggson.0.3
+EmptyImage[N]=hjm-eggson.0.4
+EmptyImage[W]=hjm-eggson.0.5
+EmptyImage[NW]=hjm-eggson.0.6
+EmptyImage[NE]=hjm-eggson.0.7
+
